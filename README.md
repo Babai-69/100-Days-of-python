@@ -1,4 +1,4 @@
-# 🐍 100 Days of Python
+# 🐍 100 Days of Python [Days](https://img.shields.io/badge/Challenge-100%20Days-blue)[Language](https://img.shields.io/badge/Language-Python-yellow)[Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 ### 🚀 One Day. One Concept. One Step Closer to Mastering Python.
 
