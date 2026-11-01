@@ -22,7 +22,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | [Days](https://img.shields.io/badge/Challenge-100%20Days-blue)| [Topics / Concepts](https://img.shields.io/badge/Language-Python-yellow) | [Status](https://img.shields.io/badge/Status-In%20Progress-orange) |
 |:---:|---|:---:|
 | Day 01 | Python Variables, Data Types, User Input, Conditional Statements, While Loops, and Basic Login System | ✅ Completed |
-| Day 02 | Coming Soon... | ⏳ Upcoming |
+| Day 02 | Python loops work and how mathematical problems can be solved using both formulas and iterative approaches. | ✅ Completed |
 | Day 03 | Coming Soon... | ⏳ Upcoming |
 | Day 04–100 | New concepts, coding exercises and mini-projects | ⏳ Upcoming |
 
@@ -40,16 +40,15 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 ## 📂 Repository Structure
 
 ```text
-100-days-of-python/
 │
 ├── Day-01/
-│   └── login_system.py
+│   ├── login_system.py
+│   └── README.md
 │
 ├── Day-02/
-│   └── ...
-│
-├── Day-03/
-│   └── ...
+│   ├── multiplication_table.py
+│   ├── sum_of_natural_numbers.py
+│   └── README.md
 │
 └── README.md
 ```
