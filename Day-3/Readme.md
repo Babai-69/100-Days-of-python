@@ -68,4 +68,6 @@ The main objective of Day 3 is to understand how functions make Python programs 
 
 **One day at a time, one concept at a time!**
 
+Progress: Day 03 Completed ✅
+
 #100DaysOfPython #PythonProgramming #PythonForBeginners
