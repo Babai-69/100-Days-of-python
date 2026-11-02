@@ -23,7 +23,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 |:---:|---|:---:|
 | Day 01 | Python Variables, Data Types, User Input, Conditional Statements, While Loops, and Basic Login System | ✅ Completed |
 | Day 02 | Python loops work and how mathematical problems can be solved using both formulas and iterative approaches. | ✅ Completed |
-| Day 03 | Coming Soon... | ⏳ Upcoming |
+| Day 03 | Practised Python functions, parameters, return values and conditional logic | ✅ Completed |
 | Day 04–100 | New concepts, coding exercises and mini-projects | ⏳ Upcoming |
 
 *I'll keep updating this table as I progress through the challenge.*
@@ -40,15 +40,23 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 ## 📂 Repository Structure
 
 ```text
+100-days-of-python/
 │
 ├── Day-01/
 │   ├── login_system.py
-│   └── README.md
+│   └── Guide for Day-1.md
 │
 ├── Day-02/
 │   ├── multiplication_table.py
 │   ├── sum_of_natural_numbers.py
-│   └── README.md
+│   └── Guide for Day-2.md
+│
+├── Day-03/
+│   ├── square_cube.py
+│   ├── largest_number.py
+│   ├── average_calculator.py
+│   ├── vowel_counter.py
+│   └── Guide for Day-3.md
 │
 └── README.md
 ```
