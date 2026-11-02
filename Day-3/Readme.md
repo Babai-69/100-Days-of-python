@@ -5,47 +5,24 @@ Day 3 focuses on understanding and practising **Functions in Python**. The goal 
 
 ## 🎯 Exercises Completed / Practised
 
-### Q1. Greeting Message
-- Create a function to display a greeting message.
-- Use a loop to repeat the greeting a specified number of times.
-- Practise function calling and parameters.
-
-### Q2. Square and Cube Calculator
+### Q1. Square and Cube Calculator
 - Create separate functions to calculate the square and cube of a number.
 - Use `return` to send calculated values back.
 
-### Q3. Largest Number Finder
+### Q2. Largest Number Finder
 - Create a function to find the largest among three numbers.
 - Practise nested `if-else` conditions and function parameters.
 
-### Q4. Average Calculator
+### Q3. Average Calculator
 - Ask the user how many numbers they want to enter.
 - Accept numbers using a `for` loop.
 - Calculate their total and average.
 - Return the average using a function.
 
-### Q5. Vowel Counter
+### Q4. Vowel Counter
 - Create a function named `count_vowels(text)`.
 - Count the vowels (`a, e, i, o, u`) in a sentence.
 - Handle uppercase and lowercase letters.
-
-### Q6. Multiplication of Digits
-- Create a function named `multiply_digits(num)`.
-- Extract individual digits using `%` and `//`.
-- Multiply all digits using a `while` loop.
-- Handle zero and negative numbers.
-
-### Q7. Simple Bill Calculator
-- Create a function named `calculate_bill(price, quantity)`.
-- Calculate the total bill.
-- Apply a 10% discount if the total exceeds ₹1000.
-- Return the final bill amount.
-
-### Q8. Student Grade Calculator
-- Create a function named `calculate_grade(marks, full_marks)`.
-- Calculate the percentage based on obtained and full marks.
-- Assign grades using `if-elif-else`.
-- Validate obtained marks and full marks.
 
 ## 🧠 Python Concepts Learned
 
