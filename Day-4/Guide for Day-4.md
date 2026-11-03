@@ -1,8 +1,8 @@
-# Day 3 – Python Function Practice
+# Day 4 – Python Function Practice
 
 ## Overview
 
-Welcome to Day 3 of my **100 Days of Python** journey!
+Welcome to Day 4 of my **100 Days of Python** journey!
 
 Today, I focused on learning and practising Python functions. The main objective was to understand how functions work, how to pass arguments, and how to return values.
 
