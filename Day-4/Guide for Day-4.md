@@ -66,4 +66,6 @@ Day 4 helped me strengthen my understanding of Python functions through practica
 
 I am gradually improving my logical thinking and problem-solving skills while building a strong foundation in Python.
 
+Progress: Day 04 Completed ✅
+
 **One day at a time, one step closer to becoming a better Python programmer!** 🐍
