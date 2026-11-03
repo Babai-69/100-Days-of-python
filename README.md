@@ -58,6 +58,12 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   ├── vowel_counter.py
 │   └── Guide for Day-3.md
 │
+├── Day-04/
+│   ├── multiply_digits.py
+│   ├── bill_calculator.py
+│   ├── grade_calculator.py
+│   └── Guide for Day-4.md
+│
 └── README.md
 ```
 
