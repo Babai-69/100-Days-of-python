@@ -41,25 +41,13 @@ Day 3 focuses on understanding and practising **Functions in Python**. The goal 
 ## 📂 Repository Structure
 
 ```text
-100-days-of-python/
-│
-├── Day-01/
-│   ├── login_system.py
-│   └── README.md
-│
-├── Day-02/
-│   ├── multiplication_table.py
-│   ├── sum_of_natural_numbers.py
-│   └── README.md
-│
-├── Day-03/
-│   ├── square_cube.py
-│   ├── largest_number.py
-│   ├── average_calculator.py
-│   ├── vowel_counter.py
-│   └── README.md
-│
+Day-03/
+├── square_cube.py
+├── largest_number.py
+├── average_calculator.py
+├── vowel_counter.py
 └── README.md
+
 ```
 
 ## 🚀 Learning Goal
