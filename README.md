@@ -24,7 +24,8 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 01 | Python Variables, Data Types, User Input, Conditional Statements, While Loops, and Basic Login System | ✅ Completed |
 | Day 02 | Python loops work and how mathematical problems can be solved using both formulas and iterative approaches. | ✅ Completed |
 | Day 03 | Practised Python functions, parameters, return values and conditional logic | ✅ Completed |
-| Day 04–100 | New concepts, coding exercises and mini-projects | ⏳ Upcoming |
+| Day 04 | More question related to the nested loops and functions, python fundamentals. | ✅ Completed |
+| Day 05 | cleared some more concepts related to the for, if-else loops | ✅ Completed |
 
 *I'll keep updating this table as I progress through the challenge.*
 
@@ -63,6 +64,11 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   ├── bill_calculator.py
 │   ├── grade_calculator.py
 │   └── Guide for Day-4.md
+│
+├── Day-05/
+│   ├── factorial_calculator.py
+│   ├── prime_number_checker.py
+│   └── Guide for Day-5.md
 │
 └── README.md
 ```
