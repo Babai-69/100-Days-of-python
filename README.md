@@ -26,6 +26,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 03 | Practised Python functions, parameters, return values and conditional logic | ✅ Completed |
 | Day 04 | More question related to the nested loops and functions, python fundamentals. | ✅ Completed |
 | Day 05 | cleared some more concepts related to the for, if-else loops | ✅ Completed |
+| Day 06 | focused on improving my logical thinking and problem-solving skills by working with numbers and their properties. | ✅ Completed |
 
 *I'll keep updating this table as I progress through the challenge.*
 
