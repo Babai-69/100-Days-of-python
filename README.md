@@ -70,6 +70,11 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   ├── prime_number_checker.py
 │   └── Guide for Day-5.md
 │
+├── Day-06/
+│   ├── palindrom_number_checker.py
+│   ├── angstrom_number_checker.py
+│   └── Guide for Day-6.md
+│
 └── README.md
 ```
 
