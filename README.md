@@ -28,6 +28,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 05 | cleared some more concepts related to the for, if-else loops | ✅ Completed |
 | Day 06 | focused on improving my logical thinking and problem-solving skills by working with numbers and their properties. | ✅ Completed |
 | Day 07 | Python loops work and how mathematical problems can be solved using both formulas and iterative approaches. | ✅ Completed |
+| Day 08 | focused on functions, loops, conditional statements, arithmetic operations, user input, and input validation. | ✅ Completed |
 
 
 *I'll keep updating this table as I progress through the challenge.*
