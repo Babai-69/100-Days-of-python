@@ -82,6 +82,11 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   ├── guess_the_number.py
 │   └── Guide for Day-7.md
 │
+├──Day-08/
+│   ├── atm_simulation.py
+│   ├── temperature_converter.py
+│   └── Guide for Day-8.md
+│
 └── README.md
 ```
 
