@@ -66,9 +66,5 @@ After completing Day 9, you should be able to:
 - Perform calculations using loops and functions.
 - Apply discount conditions in a shopping bill.
 
-## Progress Tracker
-- [ ] Q1 – Basic Password Generator
-- [ ] Q2 – Shopping Bill Calculator
-
 ## Final Note
 Keep practising and try to understand the logic behind every program instead of simply copying the code. Small improvements every day will help you become a better Python programmer!
