@@ -30,6 +30,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 07 | Python loops work and how mathematical problems can be solved using both formulas and iterative approaches. | ✅ Completed |
 | Day 08 | focused on functions, loops, conditional statements, arithmetic operations, user input, and input validation. | ✅ Completed |
 | Day 09 | focused on functions, loops, conditional statements, arithmetic operations, user input, and input validation. | ✅ Completed |
+| Day 10 | focuses on understanding Python Lists and performing different operations using built-in list methods. | ✅ Completed |
 
 
 *I'll keep updating this table as I progress through the challenge.*
@@ -93,6 +94,10 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   ├── password_generator.py
 │   ├── shopping_bill_calculator.py
 │   └── Guide for Day-9.md
+│
+├──Day-10/
+│   ├── list_operations.py
+│   └── Guide for Day-10.md
 │
 └── README.md
 ```
