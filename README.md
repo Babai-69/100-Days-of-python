@@ -46,7 +46,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 
 ## 📂 Repository Structure
 
-```text
+```py
 100-days-of-python/
 │
 ├── Day-01/
