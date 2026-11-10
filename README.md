@@ -31,6 +31,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 08 | focused on functions, loops, conditional statements, arithmetic operations, user input, and input validation. | ✅ Completed |
 | Day 09 | focused on functions, loops, conditional statements, arithmetic operations, user input, and input validation. | ✅ Completed |
 | Day 10 | focuses on understanding Python Lists and performing different operations using built-in list methods. | ✅ Completed |
+| Day 10 | improved my understanding of comparing list elements and updating variable values based on conditions. | ✅ Completed |
 
 
 *I'll keep updating this table as I progress through the challenge.*
@@ -99,6 +100,11 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   ├── list_operations.py
 │   └── Guide for Day-10.md
 │
+├──Day-10/
+│   ├── max_and_min_number_using_list.py
+│   ├── sum_of_all_numbers_using_list.py
+│   └── Guide for Day-11.md
+|
 └── README.md
 ```
 
