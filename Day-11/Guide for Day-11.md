@@ -15,14 +15,14 @@ Today, I started practising the Python **List (`list`) datatype**, focusing on l
 
 ## ✅ Questions Completed
 
-### Q8. Sum of All Elements
+### Sum of All Elements
 - Created a list containing multiple numbers.
 - Used a `for` loop to access each element.
 - Calculated the total sum using a variable.
 - Practised accumulating values inside a loop.
 - Avoided using the built-in `sum()` function.
 
-### Q9. Find Maximum and Minimum
+### Find Maximum and Minimum
 - Created a list containing multiple numbers.
 - Used the first element as the initial maximum and minimum.
 - Compared each element using a `for` loop.
