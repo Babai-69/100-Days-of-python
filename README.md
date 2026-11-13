@@ -33,6 +33,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 10 | focuses on understanding Python Lists and performing different operations using built-in list methods. | ✅ Completed |
 | Day 11 | improved my understanding of comparing list elements and updating variable values based on conditions. | ✅ Completed |
 | Day 12 | continued practicing the Python List (list) datatype, focusing on loops, conditional statements, counters, and separating elements based on specific conditions. | ✅ Completed |
+| Day 13 | continued practising the Python List (list) datatype, focusing on reversing lists using loops and understanding list indexing. | ✅ Completed |
 
 *I'll keep updating this table as I progress through the challenge.*
 
@@ -111,8 +112,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   └── Guide for Day-12.md
 |
 ├──Day-13/
-│   ├── list.py
-│   ├── r.py
+│   ├── reverse_a_list.py
 │   └── Guide for Day-13.md
 |
 └── README.md
