@@ -16,7 +16,7 @@ Today, I continued practising the Python **List (`list`) datatype**, focusing on
 
 ## ✅ Questions Completed
 
-### Q10. Count Even and Odd Numbers
+### Count Even and Odd Numbers
 - Created a list containing 10 numbers.
 - Initialized two counter variables: `even_count` and `odd_count`.
 - Used a `for` loop to iterate through the list.
@@ -24,7 +24,7 @@ Today, I continued practising the Python **List (`list`) datatype**, focusing on
 - Increased the appropriate counter based on the condition.
 - Displayed the total count of even and odd numbers.
 
-### Q11. Separate Positive and Negative Numbers
+### Separate Positive and Negative Numbers
 - Took 10 numbers as input from the user.
 - Stored all the numbers in a list.
 - Created two separate empty lists for positive and negative numbers.
