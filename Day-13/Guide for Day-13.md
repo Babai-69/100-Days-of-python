@@ -15,7 +15,7 @@ Today, I continued practising the Python **List (`list`) datatype**, focusing on
 
 ## ✅ Questions Completed
 
-### Q12. Reverse a List
+### Reverse a List
 - Created a list containing multiple elements.
 - Created a new empty list to store the reversed elements.
 - Accessed the original list starting from its last element.
