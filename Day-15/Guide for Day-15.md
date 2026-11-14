@@ -9,7 +9,6 @@ Today, I started Level 3 of Python List practice, focusing on more challenging p
 - Advanced list manipulation.
 - Sorting lists using loops and conditions.
 - Understanding ascending and descending order.
-- Finding second-largest and second-smallest unique elements.
 - Handling duplicate elements.
 - Improving logical thinking and problem-solving skills.
 - Working with edge cases.
