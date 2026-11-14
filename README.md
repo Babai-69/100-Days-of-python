@@ -35,6 +35,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 12 | continued practicing the Python List (list) datatype, focusing on loops, conditional statements, counters, and separating elements based on specific conditions. | ✅ Completed |
 | Day 13 | continued practising the Python List (list) datatype, focusing on reversing lists using loops and understanding list indexing. | ✅ Completed |
 | Day 14 | continued practising the Python List (list) datatype, focusing on reversing lists using loops and understanding list indexing. | ✅ Completed |
+| Day 15 | continued learning list rotation and manipulating elements while maintaining their original order | ✅ Completed |
 
 *I'll keep updating this table as I progress through the challenge.*
 
@@ -120,6 +121,10 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   ├── calculate average.py
 │   ├── find the duplicate number.py
 │   └── Guide for Day-14.md
+|
+├──Day-15/
+│   ├── sorting & searching.py
+│   └── Guide for Day-15.md
 |
 └── README.md
 ```
