@@ -37,6 +37,8 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 14 | continued practising the Python List (list) datatype, focusing on reversing lists using loops and understanding list indexing. | ✅ Completed |
 | Day 15 | continued learning list rotation and manipulating elements while maintaining their original order | ✅ Completed |
 | Day 16 | focusing on advanced list manipulation, element positioning, and maintaining the original order of elements while modifying a list. | ✅ Completed |
+| Day 17 | focusing on advanced list manipulation, element positioning, and maintaining the original order of elements while modifying a list. | ✅ Completed |
+| Day 18 | focusing on advanced list manipulation, element positioning, and maintaining the original order of elements while modifying a list. | ✅ Completed |
 
 *I'll keep updating this table as I progress through the challenge.*
 
@@ -130,6 +132,14 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 ├──Day-16/
 │   ├── rotate a list.py
 │   └── Guide for Day-16.md
+|
+├──Day-17/
+│   ├── frequency of every eliment.py
+│   └── Guide for Day-17.md
+|
+├──Day-18/
+│   ├── common eliments between 2 list.py
+│   └── Guide for Day-18.md
 |
 └── README.md
 ```
