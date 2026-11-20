@@ -151,8 +151,7 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   └── Guide for Day-19.md
 |
 ├──Day-20/
-│   ├── .py
-|   ├── .py
+│   ├── Split a List into Chunks.py
 │   └── Guide for Day-20.md
 |
 └── README.md
