@@ -40,6 +40,9 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 | Day 17 | focusing on advanced list manipulation, element positioning, and maintaining the original order of elements while modifying a list. | ✅ Completed |
 | Day 18 | focusing on duplicate detection, frequency analysis, and comparing elements between two different lists. | ✅ Completed |
 | Day 19 | focusing on mathematical problem-solving, pair identification, and finding missing elements from a sequence. | ✅ Completed |
+| Day 19 | focusing on mathematical problem-solving, pair identification, and finding missing elements from a sequence. | ✅ Completed |
+| Day 20 | focusing on dividing lists into smaller groups and understanding nested list structures. | ✅ Completed |
+
 
 *I'll keep updating this table as I progress through the challenge.*
 
@@ -146,6 +149,11 @@ Rather than just learning theory, I'll focus on writing short, practical Python 
 │   ├── find pairs.py
 |   ├── finding missing number.py
 │   └── Guide for Day-19.md
+|
+├──Day-20/
+│   ├── .py
+|   ├── .py
+│   └── Guide for Day-20.md
 |
 └── README.md
 ```
